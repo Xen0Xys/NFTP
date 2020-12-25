@@ -1,2 +1,2 @@
 # NFTP
-Trying to create a new File Transfert Protocol
+Trying to create a new File Transfer Protocol
